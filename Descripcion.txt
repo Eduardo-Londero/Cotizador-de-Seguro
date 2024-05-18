@@ -1,0 +1,12 @@
+Utilizamos prototypes
+
+Cotizador de seguros de autos
+
+Cotizador de seguro automovilistico
+eligiendo marca y año del auto, ademas debemos
+seleccionar el tipo de seguro, siendo basico o completo.
+El usuario debe seleccionar todos los campos o no podra realizar 
+la cotizacion.
+
+Al oprimir el boton "Cotizar seguro" devolvera la cotizacion del seguro
+de acuerdo a la informacion elegida.
